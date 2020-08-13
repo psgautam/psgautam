@@ -27,7 +27,7 @@
 <img align="left" alt="Jupyter" width="26px" src="https://user-images.githubusercontent.com/26170477/90042976-06ee6980-dce9-11ea-9303-41a62239cbe7.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://user-images.githubusercontent.com/26170477/90044349-27b7be80-dceb-11ea-9418-0c930eb79ffe.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/26170477/90084200-61f87e80-dd32-11ea-8109-161987e12b42.png" />
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/26170477/90084773-e8619000-dd33-11ea-97d0-62982ca46f47.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/26170477/90084946-59a14300-dd34-11ea-9fc8-af7137de4fe7.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/26170477/90084032-d848b100-dd31-11ea-9018-76907100abf9.png" />
 <br />
 <br />
