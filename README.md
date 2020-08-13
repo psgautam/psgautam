@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psgautam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[instagram]: https://instagram.com/boopismygoopis
+[instagram]: https://instagram.com/theperiguy
 [linkedin]: https://linkedin.com/in/saigautamperi
 [reddit]: https://www.reddit.com/user/boopngoop
 [twitter]: https://twitter.com/theperiguy
