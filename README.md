@@ -26,6 +26,7 @@
 <img align="left" alt="Rstudio" width="26px" src="https://user-images.githubusercontent.com/26170477/90042768-bc6ced00-dce8-11ea-8ded-2087b62a57d1.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://user-images.githubusercontent.com/26170477/90042976-06ee6980-dce9-11ea-9303-41a62239cbe7.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://user-images.githubusercontent.com/26170477/90044349-27b7be80-dceb-11ea-9418-0c930eb79ffe.png" />
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/26170477/90084032-d848b100-dd31-11ea-9018-76907100abf9.png" />
 <br />
 <br />
 
