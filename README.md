@@ -9,10 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-
 
 <br />
 
@@ -36,7 +33,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psgautam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[instagram]: https://instagram.com/theperiguy
 [linkedin]: https://linkedin.com/in/saigautamperi
-[reddit]: https://www.reddit.com/user/boopngoop
-[twitter]: https://twitter.com/theperiguy
+[instagram]: https://instagram.com/theperiguy
+
