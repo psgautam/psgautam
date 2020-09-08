@@ -36,4 +36,4 @@
 
 [linkedin]: https://linkedin.com/in/saigautamperi
 [instagram]: https://instagram.com/theperiguy
-[discord]: https://discord.gg/C6g7xs
+[discord]: https://discord.gg/pzSfrzq
