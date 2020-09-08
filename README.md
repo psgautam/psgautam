@@ -30,9 +30,11 @@
 <br />
 <br />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psgautam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<table><tr>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=psgautam&show_icons=true&hide=stars&count_private=true" alt="psgautam" /></td>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgautam&layout=compact&hide=html" alt="psgautam" /></td>
+</tr></table>
+<br>
 
 [linkedin]: https://linkedin.com/in/saigautamperi
 [instagram]: https://instagram.com/theperiguy
