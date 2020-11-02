@@ -1,5 +1,4 @@
 ## Hi👋, I am Gautam
-![Profile Views](https://komarev.com/ghpvc/?username=psgautam&style=flat-square)
 
 - 🔭 I’m currently working on implementing ML & DL in real time 
 - 🌱 I’m currently learning everything about AI & its impacts
@@ -40,3 +39,5 @@
 [linkedin]: https://linkedin.com/in/saigautamperi
 [instagram]: https://instagram.com/theperiguy
 [discord]: https://discord.gg/pzSfrzq
+
+![Profile Views](https://komarev.com/ghpvc/?username=psgautam&style=flat-square)
