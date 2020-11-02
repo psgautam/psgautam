@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on implementing ML & DL in real time 
 - 🌱 I’m currently learning everything about AI & its impacts
 - 🤔 I’m looking for Intership/full-time roles 
-- 💬 Ask me about anything! 
-- 🏁 2020 goals- Contribute to open source projects and to the field of AI 
+- 💬 Ask me about anything
 
 ### Connect with me:
 
