@@ -4,10 +4,9 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
-- 🔭 I’m currently working on implementing ML & DL in real time 
-- 🌱 I’m currently learning everything about AI & its impacts
-- 🤔 I’m looking for Intership/full-time roles 
-- 💬 Ask me about anything
+- I’m currently learning & working on implementing ML & DL in real time 
+- My interests:- Machine Learning, Data Science, Football, Cricket, Gaming, Books,etc..
+- 💬 Ask me about anything 
 
 ### Connect with me:
 
