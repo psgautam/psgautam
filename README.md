@@ -1,4 +1,8 @@
-## Hi👋, I am Gautam
+## Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I am Gautam  
+
+![Profile Views](https://komarev.com/ghpvc/?username=psgautam&style=flat-square)
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - 🔭 I’m currently working on implementing ML & DL in real time 
 - 🌱 I’m currently learning everything about AI & its impacts
@@ -39,5 +43,3 @@
 [linkedin]: https://linkedin.com/in/saigautamperi
 [instagram]: https://instagram.com/theperiguy
 [discord]: https://discord.gg/pzSfrzq
-
-![Profile Views](https://komarev.com/ghpvc/?username=psgautam&style=flat-square)
