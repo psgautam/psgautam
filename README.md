@@ -1,4 +1,5 @@
 ## Hi👋, I am Gautam
+![Profile Views](https://komarev.com/ghpvc/?username=psgautam&style=flat-square)
 
 - 🔭 I’m currently working on implementing ML & DL in real time 
 - 🌱 I’m currently learning everything about AI & its impacts
