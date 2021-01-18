@@ -4,7 +4,7 @@
 <img align="right" alt="Coder GIF" height=200 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - I’m currently learning & working on implementing ML & DL in real time 
-- My interests:- Machine Learning, Data Science, Gaming, Books,etc..
+- My interests:- Machine Learning, Data Science, Gaming,Video Editing,etc..
 - 💬 Ask me about anything 
 
 ### Connect with me:
