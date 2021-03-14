@@ -1,7 +1,5 @@
 ## Hi, I am Gautam  
 
-<img align="right" alt="Coder GIF" height=200 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-
 - I’m currently learning & working on implementing ML & DL in real time 
 - 💬 Ask me about anything 
 
