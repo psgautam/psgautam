@@ -5,7 +5,7 @@
 - I’m currently learning & working on implementing ML & DL in real time 
 - 💬 Ask me about anything 
 
-### Connect with me:
+### Socials:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -13,7 +13,7 @@
 <br />
 
 
-### Languages and Tools:
+### Skills:
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -24,10 +24,6 @@
 <br />
 <br />
 
-<table><tr>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=psgautam&show_icons=true&hide=stars&count_private=true" alt="psgautam" /></td>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgautam&layout=compact&hide=html" alt="psgautam" /></td>
-</tr></table>
 <br>
 
 [linkedin]: https://linkedin.com/in/saigautamperi
